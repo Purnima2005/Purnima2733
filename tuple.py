@@ -1,0 +1,1 @@
+#tuple is a immutable data type in python which is enclosed within parenthesis which can have any data types in it.
